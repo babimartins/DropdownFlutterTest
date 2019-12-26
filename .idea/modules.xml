@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/rhim_gatherer_mobile.iml" filepath="$PROJECT_DIR$/rhim_gatherer_mobile.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/rhim_gatherer_mobile_android.iml" filepath="$PROJECT_DIR$/android/rhim_gatherer_mobile_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gatherer_mobile.iml" filepath="$PROJECT_DIR$/gatherer_mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/gatherer_mobile_android.iml" filepath="$PROJECT_DIR$/android/gatherer_mobile_android.iml" />
     </modules>
   </component>
 </project>

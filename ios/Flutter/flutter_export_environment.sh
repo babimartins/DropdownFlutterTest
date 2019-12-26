@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=C:\flutter"
-export "FLUTTER_APPLICATION_PATH=C:\Users\Dell\Documents\GitHub\rhim_gatherer_mobile\rhim_gatherer_mobile"
+export "FLUTTER_APPLICATION_PATH=C:\Users\Dell\Documents\GitHub Projects\DropdownFlutterTest"
 export "FLUTTER_TARGET=lib\main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build\ios"
